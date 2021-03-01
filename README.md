@@ -15,7 +15,7 @@
 
 ## Connect with me:
 
-<a href=[email]>
+<a href="https://kmb46.github.io/#contact">
     <img align="left" alt="Bachir KHOUSSA | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/512px-Gmail_Icon.svg.png" />
 </a>
 
@@ -63,7 +63,6 @@
 
 
 
-[email]: https://kmb46.github.io/#contact
 [twitter]: https://twitter.com/BachirKhoussa
 [scholar]: https://scholar.google.fr/citations?user=x1mmBcsAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/bachir-khoussa/
