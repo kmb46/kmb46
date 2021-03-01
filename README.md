@@ -68,6 +68,6 @@
 
 ##
 
-<img align="left" alt="Bachir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kmb46&show_icons=true&hide_border=true&hide=prs&count_private=true" />
+<img align="left" alt="Bachir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kmb46&theme=dark&show_icons=true&hide_border=true&hide=prs&count_private=true" />
 
 **All the best!**
