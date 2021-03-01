@@ -4,7 +4,7 @@
 
 - I'm actively working on NLP & Computer Vision tasks
 - I'm also actively learning about Big Data (Spark, Scala, etc.)
-- I'm interested in DL, , and tech hardware 💻
+- I'm interested in DL, traveling, and learning new technologies
 
 <!--
 ## Resume/CV:
