@@ -15,7 +15,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Bachir KHOUSSA | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/512px-Gmail_Icon.svg.png" />][email]
+[<img align="left" alt="Bachir KHOUSSA | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/512px-Gmail_Icon.svg.png" />][email]{:target="_blank"}
 [<img align="left" alt="Bachir KHOUSSA | Twitter" width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=twitter&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F83443.png&width=24&height=24" />][twitter]
 [<img align="left" alt="Bachir KHOUSSA | LinkedIn" width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />][linkedin]
 [<img align="left" alt="Bachir KHOUSSA | Scholar" width="22px" src="https://icon-icons.com/downloadimage.php?id=130918&root=2108/PNG/32/&file=google_scholar_icon_130918.png" />][scholar]
@@ -60,7 +60,7 @@
 
 
 
-[email]: <a href="https://kmb46.github.io/#contact" target="_blank"></a>
+[email]: https://kmb46.github.io/#contact
 [twitter]: https://twitter.com/BachirKhoussa
 [scholar]: https://scholar.google.fr/citations?user=x1mmBcsAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/bachir-khoussa/
