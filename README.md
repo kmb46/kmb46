@@ -60,7 +60,7 @@
 
 
 
-[email]: https://kmb46.github.io/#contact
+[email]: <a href="https://kmb46.github.io/#contact" target="_blank"></a>
 [twitter]: https://twitter.com/BachirKhoussa
 [scholar]: https://scholar.google.fr/citations?user=x1mmBcsAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/bachir-khoussa/
