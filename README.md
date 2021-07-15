@@ -16,7 +16,7 @@
 ## Connect with me:
 
 <a href="https://kmb46.github.io/#contact" target="_blank">
-    <img align="left" alt="Bachir KHOUSSA | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/512px-Gmail_Icon.svg.png" />
+    <img align="left" alt="Bachir KHOUSSA | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
 </a>
 
 <a href="https://twitter.com/BachirKhoussa" target="_blank">
@@ -69,5 +69,3 @@
 ##
 
 <img align="left" alt="Bachir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kmb46&theme=dark&show_icons=true&hide_border=true&hide=prs&count_private=true" />
-
-**All the best!**
